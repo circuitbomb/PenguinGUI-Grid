@@ -6,6 +6,8 @@ A Grid component for PenguinGUI
 
 This is a component for PenguinGUI (http://penguintoast.github.io/PenguinGUI/) an OO GUI Library for Starbound lua canvases
 
+![alt Screenshot](http://i.imgur.com/YQAQtND.jpg)
+
 ## Usage
 Place Grid.lua alongside PenguinGUI's files in your mod.
 
