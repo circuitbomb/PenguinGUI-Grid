@@ -29,6 +29,21 @@ GUI.add(grid)
 
 The grid component comes with many options
 
+##Modes
+The mode is a way to define how you intend to use the Grid Component and there are several options
 
+* `basic` - Basic functionality makes use of background and border colors
+* `basic_image` - Image functionality, this provides a way to use background images/hover images etc across the grid
+* `inventory` - (not implemented yet) Inventory mode will create an ItemGrid Widget of the players inventory
+* `container` - (not implemented yet) Container mode will create an ItemGrid Widget such as those in storage objects
+* `data_store` - Datastore mode creates the grid matrix, but does not draw the grid, providing a way to use the grid matrix as a simple databank if needed. 
+
+##TODO
+
+There are some planned features currently not implemented.
+* bindings
+* event listeners for clicks/keypress' etc..
+* more control/customization over images in grid cells
+* hovering effects
 
 
